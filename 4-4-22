@@ -1,0 +1,16 @@
+class sample
+{
+public static void main(String args[])
+{
+System.out.println("	 ABOUT MYSELF 		");
+System.out.println("Name		: chaithanya");
+System.out.println(" Father Name	:  Mr nagarjuna");
+System.out.println("Mother Name	:Nagalakshmi");
+System.out.println("Occupation	: Lab programmer");
+System.out.println("Education	:Graduated(bsc)");
+System.out.println("Experiance	:I have been working  at aditya degree college as a computer lab assistance for 3 years");
+System.out.println("Phone number	:99999999");
+System.out.println("Emailid		:chaithanyamanam@gmail.com");
+}
+}
+
